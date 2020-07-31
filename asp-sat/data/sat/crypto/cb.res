@@ -1,0 +1,10 @@
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-md5-47-3.cnf mizh-md5-47-3.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-md5-47-4.cnf mizh-md5-47-4.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-md5-47-5.cnf mizh-md5-47-5.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-md5-48-2.cnf mizh-md5-48-2.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-md5-48-5.cnf mizh-md5-48-5.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-sha0-35-2.cnf mizh-sha0-35-2.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-sha0-35-3.cnf mizh-sha0-35-3.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-sha0-35-4.cnf mizh-sha0-35-4.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-sha0-35-5.cnf mizh-sha0-35-5.m-m
+python3.7 cb_witness.py -t 7200 -v4 -TT_PYSAT -q mizh-sha0-36-2.cnf mizh-sha0-36-2.m-m

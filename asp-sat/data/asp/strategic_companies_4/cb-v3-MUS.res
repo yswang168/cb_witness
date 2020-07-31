@@ -1,0 +1,3 @@
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/benchmarks/strategic-company-instances-4/0002-strategic_companies-0-0.lp /home/wys/asp/benchmarks/strategic-company-instances-4/0002-strategic_companies-0-0.m
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/benchmarks/strategic-company-instances-4/0003-strategic_companies-0-0.lp /home/wys/asp/benchmarks/strategic-company-instances-4/0003-strategic_companies-0-0.m
+python3.7 cb_witness.py -t 7200 -lp -v4 -TT_PYSAT -q -MUS_Solver=picomus /home/wys/asp/benchmarks/strategic-company-instances-4/0004-strategic_companies-0-0.lp /home/wys/asp/benchmarks/strategic-company-instances-4/0004-strategic_companies-0-0.m
